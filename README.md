@@ -1,4 +1,4 @@
-### Hi there, I'm Solaiman Shadin -  [Solaiman Shadin][https://shadin.netlify.app/] 👋
+### Hi there, I'm  [Solaiman Shadin][website] 👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🔭 I’m currently working [Programming Hero][programming]!
