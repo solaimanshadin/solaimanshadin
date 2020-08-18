@@ -37,7 +37,10 @@
 <br />
 <br />
 
-<img align="left" alt="manik roy Github Stats"  src="https://github-readme-stats.vercel.app/api?username=solaimanshadin&show_icons=true"/>
+<img align="left" alt="Solaiman Shadin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=solaimanshadin&show_icons=true"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin)](https://github.com/solaimanshadin/solaimanshadin)
+
 
 [programming]: https://www.programming-hero.com/
 [website]: https://shadin.netlify.app/
