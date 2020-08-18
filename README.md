@@ -38,6 +38,7 @@
 <br />
 
 <img alt="Solaiman Shadin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=solaimanshadin&show_icons=true"/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin)](https://github.com/solaimanshadin/solaimanshadin)
 
 
