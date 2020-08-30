@@ -4,7 +4,7 @@
 - 🔭 I’m currently working [Programming Hero][programming]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Learn React, React Native, Vue, Node
-- ⚡ Fun fact: I love to Exlopre the world 
+- ⚡ Fun fact: I love to Explore the world 
 
 ### Connect with me:
 
