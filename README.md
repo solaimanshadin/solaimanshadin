@@ -3,7 +3,7 @@
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🔭 I’m currently working [Programming Hero][programming]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn React, React Native, Vue, Node
+- 🥅 2021 Goals: TypeScript, Next.js, Vue
 - ⚡ Fun fact: I love to Explore the world 
 
 ### Connect with me:
