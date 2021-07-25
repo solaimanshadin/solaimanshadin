@@ -1,7 +1,7 @@
 ### Hi there, I'm  [Solaiman Shadin][website] 👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
-- 🔭 I’m currently working [Programming Hero][programming]!
+- 🔭 I’m currently working at [Programming Hero][programming]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: TypeScript, Next.js, Vue
 - ⚡ Fun fact: I love to Explore the world 
