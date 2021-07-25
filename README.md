@@ -3,7 +3,7 @@
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🔭 I’m currently working at [Programming Hero][programming]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: TypeScript, Next.js, Vue
+- 🥅 2021 Goals: Microservice, Cloud computing, Software architechture
 - ⚡ Fun fact: I love to Explore the world 
 
 ### Connect with me:
