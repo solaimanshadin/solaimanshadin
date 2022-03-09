@@ -2,7 +2,7 @@
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🔭 I’m currently working at [SELISE Digital Platforms][selise]!
-- 🌱 I’m working with Angular, Nest.js 🤣
+- 🌱 I’m working with Angular, Nest.js 
 - 🥅 2022 Goals: Microservice, Cloud computing, Software architechture
 - ⚡ Fun fact: I love to Explore the world 
 
