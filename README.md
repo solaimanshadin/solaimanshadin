@@ -1,9 +1,9 @@
 ### Hi there, I'm  [Solaiman Shadin][website] 👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
-- 🔭 I’m currently working at [Programming Hero][programming]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Django, Microservice, Cloud computing, Software architechture
+- 🔭 I’m currently working at [SELISE Digital Platforms][selise]!
+- 🌱 I’m working with Angular, Nest.js 🤣
+- 🥅 2022 Goals: Microservice, Cloud computing, Software architechture
 - ⚡ Fun fact: I love to Explore the world 
 
 ### Connect with me:
@@ -46,7 +46,7 @@
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/solaimanshadin/solaimanshadin)
 
 
-[programming]: https://www.programming-hero.com/
+[selise]: https://selise.ch/
 [website]: https://shadin.netlify.app/
 [twitter]: https://shadin.netlify.app/
 [linkedin]: https://shadin.netlify.app/
